@@ -8,7 +8,7 @@ The journey begins by setting up the Apache Flink execution environment, specify
 
 ## Data Processing and Transformations
 
-The core of the project lies in its sophisticated data processing and transformation stages, structured as follows:
+The core of the project lies in its data processing and transformation stages, structured as follows:
 
 ### SpeedRadar
 
